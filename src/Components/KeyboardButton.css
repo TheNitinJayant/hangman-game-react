@@ -1,0 +1,22 @@
+.keyboard-button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 3px;
+    height: 20px;
+    width: 30px;
+}
+
+.keyboard-button:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+/* useless */
+.keyboard-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0.5px 1px 0.5px 1px;
+}

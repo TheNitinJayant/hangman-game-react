@@ -1,0 +1,9 @@
+.header {
+    text-align: center;
+}
+
+.lives-span {
+    color: red;
+
+    font-weight: bolder;
+}

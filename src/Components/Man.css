@@ -1,0 +1,11 @@
+.man {
+    fill: transparent;
+    stroke: black;
+
+    stroke-width: 2px;
+    stroke-linecap: round;
+}
+
+.hide {
+    display: none;
+}
